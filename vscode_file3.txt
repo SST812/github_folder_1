@@ -1,0 +1,3 @@
+first line of vscode file3
+second line of vscode file3
+third line of vscode file3
