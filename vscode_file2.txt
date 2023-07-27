@@ -1,0 +1,2 @@
+first line in vscode file2
+second line in vscode file2
